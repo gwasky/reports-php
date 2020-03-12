@@ -1,0 +1,8 @@
+a:5:{i:0;a:3:{s:7:"subject";s:33:"Airtime disappeared from my phone";s:12:"wrapupsubcat";s:10:"Recharging";s:8:"web_help";s:62:"Call our customer care helpline on 100 and speak to an advisor";}i:1;a:3:{s:7:"subject";s:23:"Get me beera ko airtime";s:12:"wrapupsubcat";s:8:"Beera ko";s:8:"web_help";s:180:"Dial *100# and select Beera ko.
+Charge for 500shs is 50shs, for 1000 is 75shs!
+To be eligible for beera ko you should have used atleast 12,000 UGX in airtime in the past 3 months";}i:2;a:3:{s:7:"subject";s:28:"My SIM cards do not activate";s:12:"wrapupsubcat";s:9:"SIM Cards";s:8:"web_help";s:62:"Call our customer care helpline on 100 and speak to an advisor";}i:3;a:3:{s:7:"subject";s:20:"How do I get a song?";s:12:"wrapupsubcat";s:14:"Ringback Tunes";s:8:"web_help";s:255:"Dial *157# and browse the song categories/genres from which you can choose a song.
+Or Dial 157, select a song category/genre, browse through the songs and press option 3 to download the song you want.
+You can copy your friend's song by pressing * as you";}i:4;a:3:{s:7:"subject";s:43:"How do I get internet Connectivity settings";s:12:"wrapupsubcat";s:12:"GPRS (Phone)";s:8:"web_help";s:290:"To get Internet settings on your phone, go to messages Type 
+SETUP <Your phone type> leave a space <phone model>
+(Eg. setup nokia 5200) and send to 154. Upon receiving SMS, save settings. Pin code 1234
+Or you can go to www.waridtel.co.ug. Click on Get Internet settings under Mobile Data";}}

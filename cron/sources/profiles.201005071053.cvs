@@ -1,0 +1,116 @@
+64/64 kbps,Shared,64kbps,64,64,Post64-shared,Post-64
+64/64 kbps (WTU),Shared,64kbps,64,64,Post64-shared,Post-64
+64/64 kbps,Shared,64kbps,64,64,Public-IP-Shared,Post-64
+64/64 kbps (WTU),Shared,64kbps,64,64,Public-IP-Shared,Post-64
+128/64 kbps,Shared,128kbps,128,128,Post128/64-shared,Post-128
+128/64 kbps (WTU),Shared,128kbps,128,128,Post128/64-shared,Post-128
+128/64 kbps,Shared,128kbps,128,64,Public-IP-Shared,Post-128
+128/64 kbps (WTU),Shared,128kbps,128,64,Public-IP-Shared,Post-128
+Shared 128/128 Kbps,Shared,128kbps,128,128,Post128/128-shared,Post-128/128
+Shared 128/128 Kbps (WTU),Shared,128kbps,128,128,Post128/128-shared,Post-128/128
+256/128 kbps,Shared,256kbps,256,128,Post256/128-shared,Post-256
+256/128 kbps (WTU),Shared,256kbps,256,128,Post256/128-shared,Post-256
+256/128 kbps,Shared,256kbps,256,128,Public-IP-Shared,Post-256
+256/128 kbps (WTU),Shared,256kbps,256,128,Public-IP-Shared,Post-256
+Shared 256/256 Kbps,Shared,256kbps,256,256,Post256/256-shared,Post-256/256
+Shared 256/256 Kbps (WTU),Shared,256kbps,256,256,Post256/256-shared,Post-256/256
+512/256 kbps,Shared,512kbps,512,256,Post512/256-shared,Post-512
+512/256 kbps (WTU),Shared,512kbps,512,256,Post512/256-shared,Post-512
+512/256 kbps,Shared,512kbps,512,256,Public-IP-Shared,Post-512
+512/256 kbps (WTU),Shared,512kbps,512,256,Public-IP-Shared,Post-512
+Shared 512/512 Kbps,Shared,512kbps,512,512,Post512/512-shared,Post-512/512
+Shared 512/512 Kbps (WTU),Shared,512kbps,512,512,Post512/512-shared,Post-512/512
+Shared 1024/1024 Kbps,Shared,1024kbps,1024,1024,Post1024/1024-shared,Post-1024/1024
+64/64Kbps,Shared - Public IP,64kbps,64,64,Public-IP-Shared,Post-64/64
+64/64 kbps (WTU),Shared - Public IP,64kbps,64,64,Public-IP-Shared,Post-64/64
+Shared 128/128 Kbps,Shared - Public IP,128kbps,128,128,Public-IP-Shared,Post-128/128
+Shared 128/128 Kbps (WTU),Shared - Public IP,128kbps,128,128,Public-IP-Shared,Post-128/128
+Shared 256/256 Kbps,Shared - Public IP,256Kbps,256,256,Public-IP-Shared,Post-256/256
+Shared 256/256 Kbps (WTU),Shared - Public IP,256Kbps,256,256,Public-IP-Shared,Post-256/256
+Shared 512/512 Kbps,Shared - Public IP,512Kbps,512,512,Public-IP-Shared,Post-512/512
+Shared 512/512 Kbps (WTU),Shared - Public IP,512Kbps,512,512,Public-IP-Shared,Post-512/512
+Shared 1024/1024 Kbps,Shared - Public IP,1024Kbps,1024,1024,Public-IP-Shared,Post-1024/1024
+Internet 96 kbps (64/32),Dedicated - Public IP,64kbps,64,32,Public-IP-Dedicated,PostDCU1
+Internet 128 kbps (64/64),Dedicated - Public IP,64kbps,64,64,Public-IP-Dedicated,PostDCU1
+Internet 192 kbps (64/128),Dedicated - Public IP,128kbps,64,128,Public-IP-Dedicated,PostDCU2
+Internet 192 kbps (128/64),Dedicated - Public IP,128kbps,128,64,Public-IP-Dedicated,PostDCU2
+Internet 256 kbps (128/128),Dedicated - Public IP,128kbps,128,128,Public-IP-Dedicated,PostDCU2
+Internet 384 kbps (256/128),Dedicated - Public IP,256kbps,256,128,Public-IP-Dedicated,PostDCU3
+Internet 512 kbps (256/256),Dedicated - Public IP,256kbps,256,256,Public-IP-Dedicated,PostDCU3
+Internet 768 kbps (512/256),Dedicated - Public IP,512kbps,512,256,Public-IP-Dedicated,PostDCU4
+Internet 1 Mbps (512/512),Dedicated - Public IP,512kbps,512,512,Public-IP-Dedicated,PostDCU4
+Internet 1.5 Mbps (1024/512),Dedicated - Public IP,1024kbps,1024,512,Public-IP-Dedicated,PostDCU5
+Internet 2 Mbps (1024/1024),Dedicated - Public IP,1024kbps,1024,1024,Public-IP-Dedicated,PostDCU5
+Internet 3 Mbps (2048/1024),Dedicated - Public IP,2048kbps,2048,1024,Public-IP-Dedicated,PostDCU6
+Internet 4 Mbps (2048/2048),Dedicated - Public IP,2048kbps,2048,2048,Public-IP-Dedicated,PostDCU6
+CIR 128Kb [WR],Dedicated - Public IP,128kbps,128,128,Public-IP-Dedicated,PostDCU2
+CIR 192Kb [WR],Dedicated - Public IP,192kbps,192,192,Public-IP-Dedicated,PostDCU192
+CIR 256Kb [WR],Dedicated - Public IP,256kbps,256,256,Public-IP-Dedicated,PostDCU3
+CIR 384Kb [WR],Dedicated - Public IP,384kbps,384,384,Public-IP-Dedicated,PostDCU384
+CIR 512Kb [WR],Dedicated - Public IP,512kbps,512,512,Public-IP-Dedicated,PostDCU4
+CIR 768Kb [WR],Dedicated - Public IP,768kbps,768,768,Public-IP-Dedicated,PostDCU768
+CIR 1Mb [WR],Dedicated - Public IP,1024kbps,1024,1024,Public-IP-Dedicated,PostDCU5
+CIR 2Mb [WR],Dedicated - Public IP,2048kbps,2048,2048,Public-IP-Dedicated,PostDCU6
+CIR 128Kb [NR],Dedicated - Public IP,128kbps,128,128,Public-IP-Dedicated,PostDCU2
+CIR 256Kb [NR],Dedicated - Public IP,256kbps,256,256,Public-IP-Dedicated,PostDCU3
+CIR 384Kb [NR],Dedicated - Public IP,384kbps,384,384,Public-IP-Dedicated,PostDCU384
+CIR 512Kb [NR],Dedicated - Public IP,512kbps,512,512,Public-IP-Dedicated,PostDCU4
+CIR 768Kb [NR],Dedicated - Public IP,768kbps,768,768,Public-IP-Dedicated,PostDCU768
+CIR 1Mb [NR],Dedicated - Public IP,1024kbps,1024,1024,Public-IP-Dedicated,PostDCU5
+CIR 1536Kb [NR],Dedicated - Public IP,1536kbps,1536,1536,Public-IP-Dedicated,PostDCU1536
+CIR 2Mb [NR],Dedicated - Public IP,2048kbps,2048,2048,Public-IP-Dedicated,PostDCU6
+CIR 3Mb [NR],Dedicated - Public IP,3072kbps,3072,3072,Public-IP-Dedicated,PostDCU3072
+CIR 4Mb [NR],Dedicated - Public IP,4096kbps,4096,4096,Public-IP-Dedicated,PostDCU4096
+CIR 128Kb [WR],Leased Line,128kbps,128,128,Internet-Leaseline,PostDCU2
+CIR 256Kb [WR],Leased Line,256kbps,256,256,Internet-Leaseline,PostDCU3
+CIR 384Kb [WR],Leased Line,384kbps,384,384,Internet-Leaseline,PostDCU384
+CIR 512Kb [WR],Leased Line,512kbps,512,512,Internet-Leaseline,PostDCU4
+CIR 768Kb [WR],Leased Line,768kbps,768,768,Internet-Leaseline,PostDCU768
+CIR 1Mb [WR],Leased Line,1024kbps,1024,1024,Internet-Leaseline,PostDCU5
+CIR 2Mb [WR],Leased Line,2048kbps,2048,2048,Internet-Leaseline,PostDCU6
+CIR 128Kb [NR],Leased Line,128kbps,128,128,Internet-Leaseline,PostDCU2
+CIR 256Kb [NR],Leased Line,256kbps,256,256,Internet-Leaseline,PostDCU3
+CIR 384Kb [NR],Leased Line,384kbps,384,384,Internet-Leaseline,PostDCU384
+CIR 512Kb [NR],Leased Line,512kbps,512,512,Internet-Leaseline,PostDCU4
+CIR 768Kb [NR],Leased Line,768kbps,768,768,Internet-Leaseline,PostDCU768
+CIR 1Mb [NR],Leased Line,1024kbps,1024,1024,Internet-Leaseline,PostDCU5
+CIR 1536Kb [NR],Leased Line,1536kbps,1536,1536,Internet-Leaseline,PostDCU1536
+CIR 2Mb [NR],Leased Line,2048kbps,2048,2048,Internet-Leaseline,PostDCU6
+CIR 3Mb [NR],Leased Line,3072kbps,3072,3072,Internet-Leaseline,PostDCU3072
+CIR 4Mb [NR],Leased Line,4096kbps,4096,4096,Internet-Leaseline,PostDCU4096
+Leased Line 64 kbps,Leased Line,64kbps,LL,64,Leaseline,PostDCU1
+Leased Line 64 kbps (Local),Leased Line,64kbps,LL,64,Leaseline,PostDCU1
+Leased Line 64 kbps (National),Leased Line,64kbps,LL,64,Leaseline,PostDCU1
+Leased Line 128 kbps,Leased Line,128kbps,LL,128,Leaseline,PostDCU2
+Leased Line 128 kbps (Local),Leased Line,128kbps,LL,128,Leaseline,PostDCU2
+Leased Line 128 kbps (National),Leased Line,128kbps,LL,128,Leaseline,PostDCU2
+Leased Line 256 kbps,Leased Line,256kbps,LL,256,Leaseline,PostDCU3
+Leased Line 256 kbps (Local),Leased Line,256kbps,LL,256,Leaseline,PostDCU3
+Leased Line 256 kbps (National),Leased Line,256kbps,LL,256,Leaseline,PostDCU3
+Leased Line 512 kbps,Leased Line,512kbps,LL,512,Leaseline,PostDCU4
+Leased Line 512 kbps (Local),Leased Line,512kbps,LL,512,Leaseline,PostDCU4
+Leased Line 512 kbps (National),Leased Line,512kbps,LL,512,Leaseline,PostDCU4
+Leased Line 1 Mbps,Leased Line,1024kbps,LL,1024,Leaseline,PostDCU5
+Leased Line 1 Mbps (Local),Leased Line,1024kbps,LL,1024,Leaseline,PostDCU5
+Leased Line 1 Mbps (National),Leased Line,1024kbps,LL,1024,Leaseline,PostDCU5
+Leased Line 2 Mbps,Leased Line,2048kbps,LL,2048,Leaseline,PostDCU6
+Leased Line 2 Mbps (Local),Leased Line,2048kbps,LL,2048,Leaseline,PostDCU6
+Leased Line 2 Mbps (National),Leased Line,2048kbps,LL,2048,Leaseline,PostDCU6
+Leased Line 64 kbps,Leased Line,64kbps,LL,64,Post-IT-Leasedline,PostDCU1
+Leased Line 64 kbps (Local),Leased Line,64kbps,LL,64,Post-IT-Leasedline,PostDCU1
+Leased Line 64 kbps (National),Leased Line,64kbps,LL,64,Post-IT-Leasedline,PostDCU1
+Leased Line 128 kbps,Leased Line,128kbps,LL,128,Post-IT-Leasedline,PostDCU2
+Leased Line 128 kbps (Local),Leased Line,128kbps,LL,128,Post-IT-Leasedline,PostDCU2
+Leased Line 128 kbps (National),Leased Line,128kbps,LL,128,Post-IT-Leasedline,PostDCU2
+Leased Line 256 kbps,Leased Line,256kbps,LL,256,Post-IT-Leasedline,PostDCU3
+Leased Line 256 kbps (Local),Leased Line,256kbps,LL,256,Post-IT-Leasedline,PostDCU3
+Leased Line 256 kbps (National),Leased Line,256kbps,LL,256,Post-IT-Leasedline,PostDCU3
+Leased Line 512 kbps,Leased Line,512kbps,LL,512,Post-IT-Leasedline,PostDCU4
+Leased Line 512 kbps (Local),Leased Line,512kbps,LL,512,Post-IT-Leasedline,PostDCU4
+Leased Line 512 kbps (National),Leased Line,512kbps,LL,512,Post-IT-Leasedline,PostDCU4
+Leased Line 1 Mbps,Leased Line,1024kbps,LL,1024,Post-IT-Leasedline,PostDCU5
+Leased Line 1 Mbps (Local),Leased Line,1024kbps,LL,1024,Post-IT-Leasedline,PostDCU5
+Leased Line 1 Mbps (National),Leased Line,1024kbps,LL,1024,Post-IT-Leasedline,PostDCU5
+Leased Line 2 Mbps,Leased Line,2048kbps,LL,2048,Post-IT-Leasedline,PostDCU6
+Leased Line 2 Mbps (Local),Leased Line,2048kbps,LL,2048,Post-IT-Leasedline,PostDCU6
+Leased Line 2 Mbps (National),Leased Line,2048kbps,LL,2048,Post-IT-Leasedline,PostDCU6
